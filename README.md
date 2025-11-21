@@ -15,27 +15,15 @@
 <div align="center">
 
 <table>
-<tr>
-<td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=javascript" width="100" height="100" alt="Python" />
-<br><strong>JavaScript</strong>
-</td>
-<td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=python" width="100" height="100" alt="Python" />
-<br><strong>Python</strong>
-</td>
 <td width="400" align="left">
 
 ### 👋 **Hi, I'm s-taku0502!**
-🚀 **Web application Developer** passionate about mobile development  
+**Web application Developer** <br>
+passionate about mobile development  
 
-🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
+**Location:** Japan / JP
 
 </td>
-</tr>
 </table>
 
 </div>
@@ -50,45 +38,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=s-taku0502&custom_title=s-taku0502's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </div>
 
-## 🛠️ **Tech Stack & Skills**
-
-<table align="center">
-<tr>
-<td width="50%" align="center" valign="top">
-
-### 💻 **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,html,css" />
-<br>
-- Python（AtCoder、教材チャレンジ） <br>
-- JavaScript／TypeScript（SimpleTimerなどWeb作品） <br>
-- Kotlin（Android Jetpack Compose挑戦） <br>
-- HTML／CSS
-
-### 📱 **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-
-### ☁️ **Backend as a Service (BaaS)**
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
-
-### 🔧 **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
-
-</td>
-</tr>
-</table>
-
-
 ### 🎯 **Competitive Programming**
 
 - Currently practicing **Python** on [AtCoder](https://atcoder.jp/users/s-taku0502)  
 - Enjoy solving algorithm and data structure challenges to improve problem-solving skills
-
-
-### 🎯 **Competitive Programming**
-
-- Currently practicing **Python** on [AtCoder](https://atcoder.jp/users/s-taku0502)  
-- Enjoy solving algorithm and data structure challenges to improve problem-solving skills
-
 
 ## 🏆 **GitHub Trophies (Commits)**
 
@@ -109,6 +62,10 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
   
-  **⭐ From [s-taku0502](https://github.com/s-taku0502) **
+  From [s-taku0502](https://github.com/s-taku0502)
+
+  Portfolio: [https://s-taku0502.vercel.app](https://s-taku0502.vercel.app)
+
+   personal development: [https://cityriskview.vercel.app](https://cityriskview.vercel.app)
 
 </div>
