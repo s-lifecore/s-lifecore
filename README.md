@@ -28,6 +28,15 @@ passionate about mobile development
 
 </div>
 
+## 🚀 **Products**
+
+- **CityRiskView** — リアルタイム災害脆弱性ダッシュボード。JavaScript + Mapbox。Demo: https://cityriskview.vercel.app / Repo: https://github.com/s-taku0502/CityRiskView
+- **schedule_adjustment** — 完全AI駆動の日程調整アプリ。JavaScript。Live: https://schedule-adjustment.vercel.app / Repo: https://github.com/s-taku0502/schedule_adjustment
+- **Portfolio** — 公開ポートフォリオサイト。JavaScript。Live: https://s-taku0502.vercel.app / Repo: https://github.com/s-taku0502/portfolio
+- **hackit2025** — 学内ハッカソン「Hackit2025」の制作物。JavaScript。Live: https://hackit2025-cirkit.vercel.app / Repo: https://github.com/s-taku0502/hackit2025
+- **japan-pref-city-api** — 都道府県から市区町村を返す日本住所API。JavaScript。Live: https://japan-pref-city-api.vercel.app / Repo: https://github.com/s-taku0502/japan-pref-city-api
+- **shortened_code** — Python製のシンプルURL短縮ツール。Repo: https://github.com/s-taku0502/shortened_code
+
 ## 📊 **GitHub Analytics**
 
 <div align="center">
