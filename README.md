@@ -1,14 +1,17 @@
-<div align="center">
+<!-- 赤色のライナー -->
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+</div> -->
 
-<div align="center">
+<!-- 上部の動的イメージ -->
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
-</div>
+</div> -->
 
-<div align="center">
+<!-- 動的メッセージ -->
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+s-taku0502+%F0%9F%91%8B;Web+Application+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
-</div>
+</div> -->
 
 ## 🌟 **About Me**
 
@@ -18,15 +21,10 @@
 <td width="400" align="left">
 
 ### 👋 **Hi, I'm s-taku0502!**
-**Web application Developer** <br>
-passionate about mobile development  
+<!-- **Web application Developer** <br>
+passionate about mobile development -->
 
 **Location:** Japan / JP
-
-</td>
-</table>
-
-</div>
 
 ## 🚀 **Products**
 
@@ -52,10 +50,16 @@ passionate about mobile development
 - Currently practicing **Python** on [AtCoder](https://atcoder.jp/users/s-taku0502)  
 - Enjoy solving algorithm and data structure challenges to improve problem-solving skills
 
-## 🏆 **GitHub Trophies (Commits)**
+<!-- ## 🏆 **GitHub Trophies (Commits)**
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=s-taku0502&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
+</div> -->
+
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=s-taku0502&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-taku0502&theme=vue-dark&layout=compact" />
 </div>
 
 ## 💭 **Random Dev Quote**
