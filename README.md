@@ -13,19 +13,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+s-taku0502+%F0%9F%91%8B;Web+Application+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </div> -->
 
+<!-- 自己紹介 -->
 ## 🌟 **About Me**
 
-<div align="center">
-
-<table>
-<td width="400" align="left">
-
-### 👋 **Hi, I'm s-taku0502!**
+👋 **Hi, I'm s-taku0502!**
 <!-- **Web application Developer** <br>
 passionate about mobile development -->
 
 **Location:** Japan / JP
 
+<!-- プロダクト紹介 -->
 ## 🚀 **Products**
 
 - **CityRiskView** — リアルタイム災害脆弱性ダッシュボード。JavaScript + Mapbox。Demo: https://cityriskview.vercel.app / Repo: https://github.com/s-taku0502/CityRiskView
@@ -35,10 +32,16 @@ passionate about mobile development -->
 - **japan-pref-city-api** — 都道府県から市区町村を返す日本住所API。JavaScript。Live: https://japan-pref-city-api.vercel.app / Repo: https://github.com/s-taku0502/japan-pref-city-api
 - **shortened_code** — Python製のシンプルURL短縮ツール。Repo: https://github.com/s-taku0502/shortened_code
 
+<!-- GitHub分析 -->
 ## 📊 **GitHub Analytics**
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-taku0502&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
+</div>
+
+<div align="center"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=s-taku0502&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-taku0502&theme=vue-dark&layout=compact" />
 </div>
 
 <div align="center">
@@ -55,12 +58,6 @@ passionate about mobile development -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=s-taku0502&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
 </div> -->
-
-## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=s-taku0502&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-taku0502&theme=vue-dark&layout=compact" />
-</div>
 
 ## 💭 **Random Dev Quote**
 
