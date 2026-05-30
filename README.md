@@ -16,7 +16,7 @@
 <!-- 自己紹介 -->
 ## 🌟 **About Me**
 
-👋 **Hi, I'm s-taku0502!**
+👋 **Hi, I'm s-taku0502(old)!**
 <!-- **Web application Developer** <br>
 passionate about mobile development -->
 
@@ -25,38 +25,38 @@ passionate about mobile development -->
 <!-- プロダクト紹介 -->
 ## 🚀 **Products**
 
-- **CityRiskView** — リアルタイム災害脆弱性ダッシュボード。JavaScript + Mapbox。Demo: https://cityriskview.vercel.app / Repo: https://github.com/s-taku0502/CityRiskView
-- **schedule_adjustment** — 完全AI駆動の日程調整アプリ。JavaScript。Live: https://schedule-adjustment.vercel.app / Repo: https://github.com/s-taku0502/schedule_adjustment
-- **Portfolio** — 公開ポートフォリオサイト。JavaScript。Live: https://s-taku0502.vercel.app / Repo: https://github.com/s-taku0502/portfolio
-- **hackit2025** — 学内ハッカソン「Hackit2025」の制作物。JavaScript。Live: https://hackit2025-cirkit.vercel.app / Repo: https://github.com/s-taku0502/hackit2025
-- **japan-pref-city-api** — 都道府県から市区町村を返す日本住所API。JavaScript。Live: https://japan-pref-city-api.vercel.app / Repo: https://github.com/s-taku0502/japan-pref-city-api
-- **shortened_code** — Python製のシンプルURL短縮ツール。Repo: https://github.com/s-taku0502/shortened_code
+- **CityRiskView** — リアルタイム災害脆弱性ダッシュボード。JavaScript + Mapbox。Demo: https://cityriskview.vercel.app / Repo: https://github.com/s-lifecore/CityRiskView
+- **schedule_adjustment** — 完全AI駆動の日程調整アプリ。JavaScript。Live: https://schedule-adjustment.vercel.app / Repo: https://github.com/s-lifecore/schedule_adjustment
+- **Portfolio** — 公開ポートフォリオサイト。JavaScript。Live: https://s-taku0502.vercel.app / Repo: https://github.com/s-lifecore/portfolio
+- **hackit2025** — 学内ハッカソン「Hackit2025」の制作物。JavaScript。Live: https://hackit2025-cirkit.vercel.app / Repo: https://github.com/s-lifecore/hackit2025
+- **japan-pref-city-api** — 都道府県から市区町村を返す日本住所API。JavaScript。Live: https://japan-pref-city-api.vercel.app / Repo: https://github.com/s-lifecore/japan-pref-city-api
+- **shortened_code** — Python製のシンプルURL短縮ツール。Repo: https://github.com/s-lifecore/shortened_code
 
 <!-- GitHub分析 -->
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-taku0502&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-lifecore&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
 </div>
 
 <div align="center"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=s-taku0502&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-taku0502&theme=vue-dark&layout=compact" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=s-lifecore&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-lifecore&theme=vue-dark&layout=compact" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s-taku0502&custom_title=s-taku0502's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s-lifecore&custom_title=s-taku0502's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </div>
 
 ### 🎯 **Competitive Programming**
 
-- Currently practicing **Python** on [AtCoder](https://atcoder.jp/users/s-taku0502)  
+- Currently practicing **Python** on [AtCoder](https://atcoder.jp/users/s-taku)  
 - Enjoy solving algorithm and data structure challenges to improve problem-solving skills
 
 <!-- ## 🏆 **GitHub Trophies (Commits)**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=s-taku0502&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
+  <img src="https://github-profile-trophy.vercel.app/?username=s-lifecore&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
 </div> -->
 
 ## 💭 **Random Dev Quote**
