@@ -16,21 +16,33 @@
 <!-- 自己紹介 -->
 ## 🌟 **About Me**
 
-👋 **Hi, I'm s-taku0502(old)!**
-<!-- **Web application Developer** <br>
-passionate about mobile development -->
+Hello, I'm sudo!
+not 'sudo' developer😅
 
 **Location:** Japan / JP
 
 <!-- プロダクト紹介 -->
 ## 🚀 **Products**
 
-- **CityRiskView** — リアルタイム災害脆弱性ダッシュボード。JavaScript + Mapbox。Demo: https://cityriskview.vercel.app / Repo: https://github.com/s-lifecore/CityRiskView
-- **schedule_adjustment** — 完全AI駆動の日程調整アプリ。JavaScript。Live: https://schedule-adjustment.vercel.app / Repo: https://github.com/s-lifecore/schedule_adjustment
-- **Portfolio** — 公開ポートフォリオサイト。JavaScript。Live: https://s-taku0502.vercel.app / Repo: https://github.com/s-lifecore/portfolio
-- **hackit2025** — 学内ハッカソン「Hackit2025」の制作物。JavaScript。Live: https://hackit2025-cirkit.vercel.app / Repo: https://github.com/s-lifecore/hackit2025
-- **japan-pref-city-api** — 都道府県から市区町村を返す日本住所API。JavaScript。Live: https://japan-pref-city-api.vercel.app / Repo: https://github.com/s-lifecore/japan-pref-city-api
-- **shortened_code** — Python製のシンプルURL短縮ツール。Repo: https://github.com/s-lifecore/shortened_code
+- **CityRiskView** — リアルタイム災害脆弱性ダッシュボード。JavaScript + Mapbox。
+  - Demo: https://n-crv.crvmap.app
+  - Repo: https://github.com/s-lifecore/CityRiskView
+- **schedule_adjustment** — 完全AI駆動の日程調整アプリ。JavaScript。
+  - Live: https://schedule-adjustment.vercel.app
+  - Repo: https://github.com/s-lifecore/schedule_adjustment
+- **Portfolio** — 公開ポートフォリオサイト。JavaScript。
+  - Live: https://s-taku0502.vercel.app
+  - Repo: https://github.com/s-lifecore/portfolio
+- **hackit2025** — 学内ハッカソン「Hackit2025」の制作物。JavaScript。
+  - Live: https://hackit2025-cirkit.vercel.app
+  - Repo: https://github.com/s-lifecore/hackit2025
+- **Markdown to PDF converter** — Markdown言語で書かれたドキュメントをPDFに変換するツール。
+  - Repo: https://s-lifecore/md2pdf
+- **japan-pref-city-api** — 都道府県から市区町村を返す日本住所API。JavaScript。
+  - Live: https://japan-pref-city-api.vercel.app
+  - Repo: https://github.com/s-lifecore/japan-pref-city-api
+- **shortened_code** — Python製のシンプルURL短縮ツール。
+  - Repo: https://github.com/s-lifecore/shortened_code
 
 <!-- GitHub分析 -->
 ## 📊 **GitHub Analytics**
@@ -45,7 +57,7 @@ passionate about mobile development -->
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s-lifecore&custom_title=s-taku0502's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+  <img src="ithub-readme-activity-graph.vercel.app/graph?username=s-lifecore&custom_title=s-taku0502's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </div>
 
 ### 🎯 **Competitive Programming**
