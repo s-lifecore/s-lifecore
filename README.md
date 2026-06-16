@@ -17,27 +17,33 @@
 ## 🌟 **About Me**
 
 Hello, I'm sudo!
-not 'sudo' developer😅
+
+Not "sudo" developer😅
 
 **Location:** Japan / JP
 
 <!-- プロダクト紹介 -->
 ## 🚀 **Products**
 
-- **CityRiskView** — リアルタイム災害脆弱性ダッシュボード。JavaScript + Mapbox。
-  - Demo: https://n-crv.crvmap.app
-  - Repo: https://github.com/s-lifecore/CityRiskView
-- **schedule_adjustment** — 完全AI駆動の日程調整アプリ。JavaScript。
-  - Live: https://schedule-adjustment.vercel.app
-  - Repo: https://github.com/s-lifecore/schedule_adjustment
 - **Portfolio** — 公開ポートフォリオサイト。JavaScript。
   - Live: https://s-taku0502.vercel.app
   - Repo: https://github.com/s-lifecore/portfolio
+
+- **CityRiskView** — リアルタイム災害脆弱性ダッシュボード。JavaScript + Mapbox。
+  - Demo: https://n-crv.crvmap.app
+  - Repo: https://github.com/s-lifecore/CityRiskView
+
+- **Markdown to PDF converter** — Markdown言語で書かれたドキュメントをPDFに変換するツール。
+  - Repo: https://s-lifecore/md2pdf
+
+- **schedule_adjustment** — 完全AI駆動の日程調整アプリ。JavaScript。
+  - Live: https://schedule-adjustment.vercel.app
+  - Repo: https://github.com/s-lifecore/schedule_adjustment
+
 - **hackit2025** — 学内ハッカソン「Hackit2025」の制作物。JavaScript。
   - Live: https://hackit2025-cirkit.vercel.app
   - Repo: https://github.com/s-lifecore/hackit2025
-- **Markdown to PDF converter** — Markdown言語で書かれたドキュメントをPDFに変換するツール。
-  - Repo: https://s-lifecore/md2pdf
+
 - **japan-pref-city-api** — 都道府県から市区町村を返す日本住所API。JavaScript。
   - Live: https://japan-pref-city-api.vercel.app
   - Repo: https://github.com/s-lifecore/japan-pref-city-api
@@ -84,10 +90,10 @@ not 'sudo' developer😅
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
   
-  From [s-taku0502](https://github.com/s-taku0502)
+  From [s-taku0502/s-lifecore](https://github.com/s-lifecore)
 
   Portfolio: [https://s-taku0502.vercel.app](https://s-taku0502.vercel.app)
 
-   personal development: [https://cityriskview.vercel.app](https://cityriskview.vercel.app)
+   personal development: "[CityRiskView](https://n-crv.crvmap.app)" and "[michikusa-memory](https://michikusa-memory.com)"
 
 </div>
