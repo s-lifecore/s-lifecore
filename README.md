@@ -21,18 +21,18 @@
 ## 🚀 Products & Projects
 
 ### 🛠️ [CityRiskView](https://github.com/s-lifecore/CityRiskView)
-> **~ Disaster Resilience Platform ~**
+> **Disaster Resilience Platform**: 
 > 災害時の迅速な情報共有と、平時の備えを支援する防災プラットフォーム。
 - **Tech Stack:** Next.js, Supabase, Tailwind CSS, Mapbox
 - **Link:** [Demo App](https://n-crv.crvmap.app)
 
 ### 🚀 Hackit
-> **~ Student Hackathon Organizer ~**
+> **Student Hackathon Organizer**: 
 > 学生向けハッカソン「Hackit」の企画・運営を通じて、技術とアイデアが生まれる環境を創生。学内外の技術コミュニティを運営しています。
 - **Link:** [Hackit2025 Live](https://hackit2025-cirkit.vercel.app) / [Repository](https://github.com/s-lifecore/hackit2025)
 
 ### 🚶 Michikusa Memory
-> **~ Walking Memory Archive ~**
+> **Walking Memory Archive**:
 > ふとした散歩の時間を、冒険に変えてみませんか？その一瞬を思い出に残すアプリケーション。
 
 ### 📦 Other Open Source Utility
@@ -45,12 +45,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-lifecore&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="readme streak stats" />
-</div>
-
-<div align="center"> 
-  <img alt="Top Langs" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-lifecore&theme=tokyonight&layout=compact" />
-  <img alt="github stats" height="165px" src="https://github-readme-stats.vercel.app/api?username=s-lifecore&theme=tokyonight&show_icons=true" />
+  <!-- streak stats のテーマを統一＆安定版URLに修正 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-lifecore&theme=tokyonight&border_radius=10" alt="readme streak stats" />
 </div>
 
 ### 🎯 Competitive Programming & Tech Articles
