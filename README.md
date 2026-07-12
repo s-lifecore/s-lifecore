@@ -53,6 +53,8 @@
 - 競プロは **Python** をメインに [AtCoder (s_umi)](https://atcoder.jp/users/s_umi) で精進中。アルゴリズムとデータ構造のスキルを磨いています。
 - 技術的な知見や備忘録は [Qiita](https://qiita.com/takumi1227) にて発信中！
 
+[![GitHub Planet](https://image.thum.io/get/width/800/crop/400/noanimate/wait/8/https://githubplanet-git-543426763451.asia-northeast2.run.app/card.html?username=s-lifecore&fix=true&time=1783854001226)](https://githubplanet-git-543426763451.asia-northeast2.run.app/)
+
 ---
 
 ## 💭 Random Dev Quote
